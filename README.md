@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/aditya-roy-b59ba386/">
 <img align="left" alt="aditya-roy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/nayeem.rafsan/">
-<img align="left" alt="nayeem.rafsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/__._adi_.__/">
+<img align="left" alt="aditya-roy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a
 <br/>
 <br />
