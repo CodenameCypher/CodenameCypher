@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hello, I'm Aditya Roy 👋
+### Student, Competitive Programmer, Developer, Cuber
 
-<!--
-**CodenameCypher/CodenameCypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+<a href="https://www.facebook.com/2017ROYA02">
+<img align="left" alt="aditya-roy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aditya-roy-b59ba386/">
+<img align="left" alt="aditya-roy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/nayeem.rafsan/">
+<img align="left" alt="nayeem.rafsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a
+<br/>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
+<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django-community.svg" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
+<img align="left" alt="CSS" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+</details>
+
+<img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codenamecypher&show_icons=true&hide_border=true" />
