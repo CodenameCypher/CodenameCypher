@@ -1,4 +1,4 @@
-## Hello, I'm Aditya Roy 👋
+## Hello, I'm Aditya Roy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Student, Competitive Programmer, Developer, Cuber
 
 ### Connect with me:
@@ -32,4 +32,4 @@
 
 <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codenamecypher&show_icons=true&hide_border=true" />
 
-<img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodenameCypher&layout=compact&theme=merko&show_icons=true&hide_border=true" />
+<img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodenameCypher&layout=compact&show_icons=true&hide_border=true" />
