@@ -1,4 +1,4 @@
-## Hello, I'm Aditya Roy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, I'm Aditya Roy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 ### Student, Competitive Programmer, Developer, Cuber
 
 ### Connect with me:
