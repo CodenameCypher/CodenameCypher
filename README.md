@@ -7,7 +7,7 @@
 <img align="left" alt="aditya-roy | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-roy-b59ba386/">
-<img align="left" alt="aditya-roy | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png](https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+<img align="left" alt="aditya-roy | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/__._adi_.__/">
 <img align="left" alt="aditya-roy | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="MySQL" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://i2.wp.com/linuxmeditation.com/wp-content/uploads/2021/03/postgresql.png?fit=794%2C1123&ssl=1](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" />
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />
 <br>
 <br>
