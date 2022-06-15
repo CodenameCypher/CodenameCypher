@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="MySQL" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://www.pngkit.com/png/full/122-1229104_postgresql-elephant-logo-postgres-icon.png" />
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />
 <br>
 <br>
