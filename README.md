@@ -30,6 +30,9 @@
 <img align="left" alt="MySQL" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://www.pngkit.com/png/full/122-1229104_postgresql-elephant-logo-postgres-icon.png" />
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />
+<img align="left" alt="Flutter" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/1_ilC2Aqp5sZd1wi0CopD1Hw_zT8WoJh.png" />
+<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" />
+<img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" /> 
 <br>
 <br>
 
