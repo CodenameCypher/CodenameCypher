@@ -33,6 +33,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/1_ilC2Aqp5sZd1wi0CopD1Hw_zT8WoJh.png" />
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" />
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" /> 
+ <img align="left" alt="SQLite" width="26px" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" />
 <br>
 <br>
 
