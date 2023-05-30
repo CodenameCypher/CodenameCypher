@@ -6,10 +6,10 @@
 <a href="https://www.facebook.com/2017ROYA02">
 <img align="left" alt="aditya-roy | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" />
 </a>
-<a href="https://www.linkedin.com/in/aditya-roy-b59ba386/">
+<a href="https://www.linkedin.com/in/adityaroy1/">
 <img align="left" alt="aditya-roy | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://www.instagram.com/__._adi_.__/">
+<a href="https://www.instagram.com/codenamecypher">
 <img align="left" alt="aditya-roy | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a
 <br/>
@@ -33,7 +33,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/1_ilC2Aqp5sZd1wi0CopD1Hw_zT8WoJh.png" />
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" />
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" /> 
- <img align="left" alt="SQLite" width="26px" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png" />
+ <img align="left" alt="SQLite" width="26px" src="https://user-images.githubusercontent.com/94545831/196925526-b6f89f3e-0abb-4ea2-842b-371487196463.png" />
 <br>
 <br>
 
